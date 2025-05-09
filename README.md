@@ -15,7 +15,7 @@ Welcome to the **ultimate Python playground**! 🎉 This assignment is where we 
 Submit a github repo for the assignment below.
 Here’s what your code should include:
 
-### 1. Basic Calculator Program 🎈  
+### 1. Data Structures 🎈  
 - Create an empty list called my_list.
 - Append the following elements to my_list: 10, 20, 30, 40.
 - Insert the value 15 at the second position in the list.
